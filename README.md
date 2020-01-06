@@ -69,6 +69,7 @@ Android library 整理
 
 
 ##### 文档
+* [android_library](https://github.com/isudev/android_library) - 与本文档同类的整理文档
 * [android-jetpack-chinese-translation](https://github.com/Android-Jetpack-Chinese-Translation/android-jetpack-chinese-translation) - Android Jetpack 官方文档 中文翻译
 * [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - 官方material风格控件一览
 
