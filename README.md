@@ -40,7 +40,22 @@ Android library 整理
 * [PhotoView](https://github.com/chrisbanes/PhotoView) - 支持缩放的ImageView
 * [SignatureView](https://github.com/zahid-ali-shah/SignatureView) - 手签控件
 * [ShadowLayout](https://github.com/lihangleo2/ShadowLayout) - 定制化阴影
-
+* [SmartLoadingView](https://github.com/lihangleo2/SmartLoadingView) - 带异步加载动画的button
+* [BottomNavigation](https://github.com/Ashok-Varma/BottomNavigation) - 底部导航栏
+* [EasySwipeMenuLayout](https://github.com/anzaizai/EasySwipeMenuLayout) - 适用于recyclerview的仿ios右滑菜单控件（如用于实现右滑删除）
+* [XRadarView](https://github.com/hust201010701/XRadarView) - 一款高度自定义的雷达图
+* [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout) - 一款tab layout库
+* [VerticalViewPager](https://github.com/kaelaela/VerticalViewPager) - 竖向翻页的viewPager
+* [ProgressButton](https://github.com/razir/ProgressButton) - 带加载动画的button
+* [AnimatedTabLayout](https://github.com/iammert/AnimatedTabLayout) - 一款带动画的tab layout
+* [BRV](https://github.com/liangjingkanji/BRV) - RecyclerView库, 不仅仅是简洁的双向数据绑定框架, Kotlin/多类型/选择模式/拖拽侧滑/头脚布局/分组/悬停/分割线/下拉刷新/上拉加载/分页加载/缺省页/双向数据绑定/防抖动
+* [StateLayout](https://github.com/liangjingkanji/StateLayout) - 缺省页框架
+* [CalendarView](https://github.com/huanghaibin-dev/CalendarView) - 万能日历
+* [XPopup](https://github.com/li-xiaojun/XPopup) - 弹窗框架，支持popupWindow/dialog/drawerLayout/Spinner等
+* [Muti-Barrage](https://github.com/mCyp/Muti-Barrage) - 使用adapter配置的弹幕库
+* [SuperTextView](https://github.com/lygttpod/SuperTextView) - 满足大部分布局的textView,简化布局
+* [JPTabBar](https://github.com/peng8350/JPTabBar) - 一个底部tab框架
+* [RoundedImageView](https://github.com/vinc3m1/RoundedImageView) - 支持圆角的ImageView
 
 ##### 网络
 * [retrofit](retrofit) - 基于okhttp封装的网络框架，当下最好用
@@ -49,7 +64,13 @@ Android library 整理
 ##### Utils
 * [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - 功能强大的android utils库
 * [xUtils3](https://github.com/wyouflf/xUtils3)
-* [EasySwipeMenuLayout](https://github.com/anzaizai/EasySwipeMenuLayout) - 适用于recyclerview的仿ios右滑菜单控件（如用于实现右滑删除）
+* [BackgroundLibraryt](https://github.com/JavaNoober/BackgroundLibraryt) - 使用xml标签实现shape的功能，免去写shape文件的麻烦
+* [JsonDSL](https://github.com/hitanshu-dhawan/JsonDSL) - 方便的使用kotlin创建json数据
+* [MobidMask](https://github.com/ssseasonnn/MobidMask) - 一款方便实现activity/fragment之前跳转的库（不太好用）
+* [inject](https://github.com/chRyNaN/inject) - java inject的kotlin实现
+* [MultiSelectAdapter](https://github.com/goyourfly/MultiSelectAdapter) - 为recyclerView快速实现多选、批量操作
+* [Channel](https://github.com/liangjingkanji/Channel) - 协程实现的事件总线，取代eventBus/rxBus
+* [StarrySky](https://github.com/EspoirX/StarrySky) - 音频流媒体框架
 
 ##### 知名框架
 * [glide](https://github.com/bumptech/glide) - 网络图片加载器1
@@ -62,9 +83,11 @@ Android library 整理
 * [RxJava](https://github.com/ReactiveX/RxJava)
 * [RxBinding](https://github.com/JakeWharton/RxBinding)
 
-##### 完整项目
+##### 项目案例
 * [IMClient](https://github.com/jersuen/IMClient) - 开源 Android 即时通讯客户端
 * [MobileIMSDK](https://github.com/JackJiang2011/MobileIMSDK) - 一个专为移动端开发的开源原创即时通讯框架，超轻量级、高度提炼，完全基于UDP协议，支持iOS、Android、标准Java平台，服务端基于Mina和Netty编写。
+* [Zhumulangma](https://github.com/TanZhiL/Zhumulangma) - 仿喜马拉雅的单activity多fragme组件化架构案例
+* [android-serialport-api](https://github.com/cepr/android-serialport-api) - 串口通信官方demo，可当作基本功能封装来使用
 
 ##### 其他
 * [gitignore](https://github.com/github/gitignore) - github的ignore库
