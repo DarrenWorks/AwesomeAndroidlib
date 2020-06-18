@@ -56,6 +56,7 @@ Android library 整理
 * [SuperTextView](https://github.com/lygttpod/SuperTextView) - 满足大部分布局的textView,简化布局
 * [JPTabBar](https://github.com/peng8350/JPTabBar) - 一个底部tab框架
 * [RoundedImageView](https://github.com/vinc3m1/RoundedImageView) - 支持圆角的ImageView
+* [GridPager](https://github.com/mtjsoft/GridPager) - 网格+分页（金刚区/分类）
 
 ##### 网络
 * [retrofit](retrofit) - 基于okhttp封装的网络框架，当下最好用
@@ -108,6 +109,9 @@ Android library 整理
 
 ##### 无关收集
 * [DeerResume](https://github.com/geekcompany/DeerResume) - 一款基于markdown的在线简历编辑器
+
+##### lastCommit
+GridPager
 
 
 
