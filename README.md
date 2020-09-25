@@ -13,7 +13,6 @@ Android library 整理
 * [其他](#其他) 
 * [工具](#工具) 
 * [文档](#文档) 
-* [无关收集](#无关收集) 
 
 
 ### 具体内容
@@ -105,10 +104,6 @@ Android library 整理
 * [android_library](https://github.com/isudev/android_library) - 与本文档同类的整理文档
 * [android-jetpack-chinese-translation](https://github.com/Android-Jetpack-Chinese-Translation/android-jetpack-chinese-translation) - Android Jetpack 官方文档 中文翻译
 * [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - 官方material风格控件一览
-
-
-##### 无关收集
-* [DeerResume](https://github.com/geekcompany/DeerResume) - 一款基于markdown的在线简历编辑器
 
 ##### lastCommit
 GridPager
