@@ -56,10 +56,23 @@ Android library 整理
 * [JPTabBar](https://github.com/peng8350/JPTabBar) - 一个底部tab框架
 * [RoundedImageView](https://github.com/vinc3m1/RoundedImageView) - 支持圆角的ImageView
 * [GridPager](https://github.com/mtjsoft/GridPager) - 网格+分页（金刚区/分类）
+* [flexbox-layout](https://github.com/google/flexbox-layout) - 标签、表格、瀑布流等，谷歌出品。
+* [PageMenuLayout](https://github.com/xiaohaibin/PageMenuLayout) -  网格+分页（金刚区/分类）
+* [PageIndicatorView](https://github.com/romandanylyk/PageIndicatorView) - 页标（引导页/banner）
+* [nice-spinner](https://github.com/arcadefire/nice-spinner) - 更好看且好用的spinner
+* [BubbleSeekBar](https://github.com/woxingxiao/BubbleSeekBar) - 带气泡的进度条（支持节点数字标注）
+* [ConsecutiveScroller](https://github.com/donkingliang/ConsecutiveScroller) - 吸顶
+* [DropDownMenu](https://github.com/dongjunkun/DropDownMenu) - 多条件筛选
+* [vlayout](https://github.com/alibaba/vlayout) - 令RecyclerView支持大量布局方式，阿里出品（使用较复杂）
+* [SuperTextView](https://github.com/chenBingX/SuperTextView) - 支持多种基于textView的布局，简化开发
+* [LayoutManagerGroup](https://github.com/DingMouRen/LayoutManagerGroup) - 拥有多种layoutManager，使用较简单
+* [Snake](https://github.com/yuanhoujun/Snake0 - 仿iOS，侧滑返回
+* [RecyclerBanner](https://github.com/ren93/RecyclerBanner) - 基于recyclerView的banner图
 
 ##### 网络
 * [retrofit](retrofit) - 基于okhttp封装的网络框架，当下最好用
 * [okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo) - retrofit二次封装，简单好用
+* [Aria](https://github.com/AriaLyy/Aria) - 下载（支持断点续传/多任务管理）
 
 ##### Utils
 * [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - 功能强大的android utils库
@@ -71,6 +84,10 @@ Android library 整理
 * [MultiSelectAdapter](https://github.com/goyourfly/MultiSelectAdapter) - 为recyclerView快速实现多选、批量操作
 * [Channel](https://github.com/liangjingkanji/Channel) - 协程实现的事件总线，取代eventBus/rxBus
 * [StarrySky](https://github.com/EspoirX/StarrySky) - 音频流媒体框架
+* [BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) - 二维码相关（扫码/生成）
+* [AndroidKTX](https://github.com/li-xiaojun/AndroidKTX) - 好用到爆的Kotlin扩展，加速你的Android开发！
+* [Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket) - webSocket
+* [FastBle](https://github.com/Jasonchenlijian/FastBle) - 基于原生蓝牙操作二次封装，简化开发
 
 ##### 知名框架
 * [glide](https://github.com/bumptech/glide) - 网络图片加载器1
@@ -106,7 +123,7 @@ Android library 整理
 * [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - 官方material风格控件一览
 
 ##### lastCommit
-GridPager
+FastBle
 
 
 
